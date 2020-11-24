@@ -1,0 +1,11 @@
+Git Commands:
+1. git commit -m "Made Some Changes"
+This command commits the code to the repository wiht a created message about what was done
+2. git add path/to/changed/file/or/diractory
+This command adds the files that are going to be used into the staged state and this means 
+they are ready to be committed into the git-history.
+3. git push
+This command pushes changes from local device to the remote repository.
+4. git clone
+This command points to an existing repository and makes a clone/copy of that rrepository.
+
